@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Call me Karth!</h1>
-<h3 align="center">I'm an engineer-in-progress @ the University of Toronto with a vocation for providing data-driven insights</h3>
+<h3 align="center">I'm an engineer-in-progress with a vocation for providing data-driven insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karththigan&label=Profile%20views&color=0e75b6&style=flat" alt="karththigan" /> </p>
 
