@@ -5,7 +5,7 @@
  -->
 - 🔭 I’m currently working on **A custom phylogenetic tree generator**
 
-- 🌱 I’m currently learning **Django, TensorFlow, STATA**
+- 🌱 I’m currently learning **STATA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karththigan](https://github.com/Karththigan)
 
