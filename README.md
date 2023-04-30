@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Karth!</h1>
-<h3 align="center">I'm an engineer-in-progress with a vocation for providing data-driven insights</h3>
+<!-- <h3 align="center">I'm an engineer-in-progress with a vocation for providing data-driven insights</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=karththigan&label=Profile%20views&color=0e75b6&style=flat" alt="karththigan" /> </p>
  -->
-- 🔭 I’m currently working on **A custom phylogenetic tree generator**
-
-- 🌱 I’m currently learning **STATA**
+<!-- - 🔭 I’m currently working on **A custom phylogenetic tree generator**
+ -->
+<!-- - 🌱 I’m currently learning **STATA** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karththigan](https://github.com/Karththigan)
 
 - 📫 Feel free to email me at **karththigan[dot]pushparaj[at]mail[dot]utoronto[dot]ca**
 
-- ⚡ Fun fact **I'm an avid coin collector**
+<!-- - ⚡ Fun fact **I'm an avid coin collector** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
